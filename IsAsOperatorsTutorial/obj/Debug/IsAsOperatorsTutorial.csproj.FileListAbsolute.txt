@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\bin\Debug\IsAsOperatorsTutorial.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\bin\Debug\IsAsOperatorsTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\bin\Debug\IsAsOperatorsTutorial.pdb
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\obj\Debug\IsAsOperatorsTutorial.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\obj\Debug\IsAsOperatorsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\obj\Debug\IsAsOperatorsTutorial.exe
+C:\Users\Nemanja Djordjevic\source\repos\IsAsOperatorsTutorial\IsAsOperatorsTutorial\obj\Debug\IsAsOperatorsTutorial.pdb

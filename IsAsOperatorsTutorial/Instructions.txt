@@ -1,0 +1,10 @@
+﻿Koristimo IS operator za proveru tipa objekta. Ako su oba objekta istog tipa vraca true.
+
+Zasto nam treba IS operator?
+Kada radimo na velikom programu, neke operacije su dozvoljene na nekim tipovima ukljucujuci type casting.
+Npr ako konvertujemo string tip u int gde vrednost stringa nije broj dobicemo exception
+
+IS operator sluzi da proverimo vrednost pre nego sto izvrsimo konverziju
+
+AS operator se ponasa slicno kao "is" operator. Razlika je samo sto AS vraca objekat ako su oba tipa jednaka inace vraca null
+
